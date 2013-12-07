@@ -6,6 +6,7 @@ public class chandu
   public static void main(String arg[])
   {
   System.out.println("chandan");
+  System.out.println("kumar");
   }
 }
   
